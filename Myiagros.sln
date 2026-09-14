@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myiagros", "Myiagros.csproj", "{B868AB8D-234D-4349-84A1-F31F997ABFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B868AB8D-234D-4349-84A1-F31F997ABFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B868AB8D-234D-4349-84A1-F31F997ABFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B868AB8D-234D-4349-84A1-F31F997ABFDC}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{B868AB8D-234D-4349-84A1-F31F997ABFDC}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{B868AB8D-234D-4349-84A1-F31F997ABFDC}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{B868AB8D-234D-4349-84A1-F31F997ABFDC}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
